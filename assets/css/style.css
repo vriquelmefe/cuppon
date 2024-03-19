@@ -1,0 +1,39 @@
+
+.verde{
+    background-color: #28A745;
+    color: #fff;
+}
+svg{
+    margin-bottom: .5rem;
+}
+.adress {
+    color: #707070;
+    font-weight: 300;
+    font-size: 0.9rem;
+}
+.navbar-nav {
+    margin-left: auto; 
+    font-weight: 400;
+
+} 
+.navbar-brand img{
+    height: 2.5rem;
+}
+h5 {
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: #212529;
+  
+  }
+.precio{
+    color: #28A745;
+    font-size: 1.5em;
+    font-weight: medium;
+}
+.footer{
+    text-align: center;
+    img{
+        height: 2rem;
+    }
+}
+
