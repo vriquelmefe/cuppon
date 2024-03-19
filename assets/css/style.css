@@ -6,6 +6,9 @@
 svg{
     margin-bottom: .5rem;
 }
+.text-secundary{
+    color:#707070
+}
 .adress {
     color: #707070;
     font-weight: 300;
@@ -21,7 +24,7 @@ svg{
 }
 h5 {
     font-size: 1.5rem;
-    font-weight: 400;
+    font-weight: 300;
     color: #212529;
   
   }
